@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo|Roboto+Mono&display=swap');
+
+body {
+  max-width: 1000px;
+  max-height: 1000px;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: #FFB8EF;
+  font-family: 'Arvo', serif;
+  font-size: 50px;
+  font-weight: bold;
+}
+h3 {
+  text-align: center;
+  color: lightgreen;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 40px;
+}
+.contanier {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.one{
+  background-color: red;
+  width:300px;
+  height:300px;
+  float:left;
+}
+.one:hover{
+background-image: url(/images/14.png);
+  width:300px;
+  height:300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.two{
+  background-color:blue;
+  width:300px;
+  height:250px;
+  float:left;
+}
+.two:hover{
+background-image: url(/images/13.jpeg);
+  width:300px;
+  height:250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.three{
+  background-color:#9399FF;
+  width:400px;
+  height:350px;
+  float:left;
+}
+.three:hover{
+  background-image: url(/images/15.jpeg);
+
+  width:400px;
+  height:350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.four{
+  background-color:#AD3603;
+  width:250px;
+  height:500px;
+  float: left;
+}
+.four:hover{
+background-image: url(/images/7.png);
+  width:250px;
+  height:500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.five{
+  background-color:#FFA914;
+  width:330px;
+  height:230px;
+  float: left;
+  }
+
+.five:hover{
+  background-image: url(/images/9.png);
+    width:330px;
+    height:230px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.six{
+    background-color:#2EC751;
+    width:230px;
+    height:350px;
+    float: left;
+  }
+.six:hover{
+  background-image: url(/images/candy.png);
+    width:230px;
+    height:350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.seven{
+    background-color:#615ADB;
+    width:230px;
+    height:450px;
+    float: left;
+  }
+.seven:hover{
+  background-image: url(/images/2.jpg);
+    width:230px;
+    height:450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.eight{
+    background-color:pink;
+    width:600px;
+    height:250px;
+    float: left;
+    }
+
+.eight:hover{
+    background-image: url(/images/11.jpeg);
+      width:600px;
+      height:250px;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+.nine{
+      background-color:green;
+      width:400px;
+      height:420px;
+      float: left;
+    }
+.nine:hover{
+    background-image: url(/images/yellow.png);
+      width:400px;
+      height:420px;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+.ten{
+      background-color:yellow;
+      width:200px;
+      height:120px;
+      float: left;
+    }
+.ten:hover {
+    background-image: url(/images/14.png);
+      width:200px;
+      height:120px;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
