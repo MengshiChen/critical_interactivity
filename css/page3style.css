@@ -1,7 +1,7 @@
 body {
   max-width: 1000px;
   max-height: 1000px;
-  background-image: url(/images/bc.jpeg);
+  background-image: url(https://art.pixilart.com/3e3fc9c4c42536a.gif);
   background-size: cover;
   text-align: center;
 }
@@ -27,20 +27,20 @@ body {
   float: left;
 }
 .video2{
-  width: 450px;
+  width: 250px;
   height: auto;
   transform: skew(15deg);
   float: left;
 }
 .video3{
-  width: 450px;
+  width: 150px;
   height:auto;
   transform: scale(1.2);
   float: right;
 }
 
 .image1{
-  width: 60px;
+  width: 70px;
   height: auto;
 }
 .image1:hover{
@@ -52,8 +52,8 @@ body {
   }
 .image2{
   margin: 10px;
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height: 60px;
 }
 .image3{
   margin: 10px;
@@ -67,8 +67,8 @@ body {
 }
 .image5{
   margin: 10px;
-  width: 65px;
-  height: 50px;
+  width: 75px;
+  height: 60px;
 }
 .image6{
   margin: 10px;
@@ -77,8 +77,8 @@ body {
 }
 .image7{
   margin: 10px;
-  width: 50px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
 }
 .image8{
   margin: 10px;
@@ -99,8 +99,8 @@ body {
   }
 .image10{
   margin: 10px;
-  width: 65px;
-  height: 50px;
+  width: 85px;
+  height: 70px;
 }
 .image11{
   margin: 10px;
@@ -134,8 +134,8 @@ body {
 }
 .image17{
   margin: 10px;
-  width: 50px;
-  height: 50px;
+  width: 80px;
+  height: 80px;
 }
 .image18{
   margin: 10px;
@@ -149,8 +149,8 @@ body {
 }
 .image20{
   margin: 10px;
-  width: 65px;
-  height: 50px;
+  width: 75px;
+  height: 60px;
 }
 .image21{
   margin: 10px;
@@ -164,8 +164,8 @@ body {
 }
 .image23{
   margin: 10px;
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
 }
 .image24{
   margin: 10px;
@@ -174,7 +174,7 @@ body {
 }
 .image25{
   margin: 10px;
-  width: 45px;
+  width: 55px;
   height: 45px;
 }
 .image26{
@@ -189,13 +189,13 @@ body {
 }
 .image28{
   margin: 10px;
-  width: 50px;
+  width: 60px;
   height: 50px;
 }
 .image29{
   margin: 10px;
-  width: 45px;
-  height: 45px;
+  width: 65px;
+  height: 55px;
 }
 .image30{
   margin: 10px;
@@ -204,7 +204,7 @@ body {
 }
 .image31{
   margin: 10px;
-  width: 140px;
+  width: 130px;
   height: 150px;
 }
 .image32{
@@ -214,34 +214,34 @@ body {
 }
 .image33{
   margin: 10px;
-  width: 65px;
-  height: 50px;
+  width: 85px;
+  height: 70px;
 }
 .image34{
   margin: 10px;
-  width: 140px;
-  height: 150px;
+  width: 130px;
+  height: 120px;
 }
 .image35{
   margin: 10px;
-  width: 65px;
-  height: 50px;
+  width: 85px;
+  height: 60px;
 }
 .image36{
   margin: 10px;
-  width: 50px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
 }
 .image37{
   margin: 10px;
   width: 45px;
-  height: 45px;
+  height: 55px;
 }
 
 
 
 .video4{
-    width: 330px;
+    width: 230px;
     height: auto;
     margin-left: 100px;
     margin-top: 100px;
@@ -251,7 +251,7 @@ body {
     float: left;
   }
 .video5{
-    width: 450px;
+    width: 350px;
     height: auto;
     margin-left: 40px;
     margin-top: 40px;
@@ -261,7 +261,7 @@ body {
     float: right;
   }
 .video6{
-    width: 350px;
+    width: 250px;
     height:auto;
     transform: scale(1.5);
     float: center;
@@ -275,13 +275,13 @@ body {
     float: left;
   }
 .video8{
-    width: 400px;
+    width: 300px;
     height: auto;
     transform: skew(45deg);
     float: right;
   }
 .video9{
-    width: 500px;
+    width: 250px;
     height:auto;
     transform: rotate(65deg);
     float: left;
@@ -290,6 +290,89 @@ body {
     margin-right: 40px;
     margin-bottom: 40px;
   }
+
+
+
+
+
+
+  .video10{
+      width: 330px;
+      height: auto;
+      margin-left: 100px;
+      margin-top: 100px;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      transform: rotate(65deg);
+      float: left;
+    }
+  .video11{
+      width: 350px;
+      height: auto;
+      margin-left: 40px;
+      margin-top: 40px;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      transform: skew(15deg);
+      float: right;
+    }
+  .video12{
+      width: 350px;
+      height:auto;
+      transform: scale(1.5);
+      float: center;
+    }
+  .video13{
+      width: 320px;
+      height: auto;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      transform: rotate(55deg);
+      float: left;
+    }
+
+    .video14{
+        width: 150px;
+        height:auto;
+        transform: scale(1.5);
+        float: center;
+      }
+    .video15{
+        width: 220px;
+        height: auto;
+        margin-right: 40px;
+        margin-bottom: 40px;
+        transform: rotate(55deg);
+        float: left;
+      }
+.video16{
+        width: 300px;
+        height: auto;
+        transform: skew(45deg);
+        float: right;
+      }
+.video17{
+        width: 400px;
+        height:auto;
+        transform: rotate(65deg);
+        float: left;
+        margin-left: 100px;
+        margin-top: 100px;
+        margin-right: 40px;
+        margin-bottom: 40px;
+      }
+  .video18{
+          width: 350px;
+          height:auto;
+          transform: rotate(45deg);
+          float: left;
+          margin-left: 100px;
+          margin-top: 100px;
+          margin-right: 40px;
+          margin-bottom: 40px;
+        }
+
+
 
 
   .comment{
