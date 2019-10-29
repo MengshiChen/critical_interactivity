@@ -48,7 +48,7 @@ background-color: #A5E8C3;
   float:left;
 }
 .two:hover{
-background-color：#EBAC26;
+background-image: url('https://media.giphy.com/media/lYgsRPkt16EL5U2fvR/giphy.gif');
   width:300px;
   height:250px;
   background-repeat: no-repeat;
@@ -147,7 +147,7 @@ background-color: #E4BAFF;
       float: left;
     }
 .nine:hover{
-    background-image: url('https://media.giphy.com/media/THItzBEWstxCtXAw8A/giphy.gif');
+    background-image: url('https://media.giphy.com/media/SY4FbYVOrNdySEKSot/giphy.gif');
       width:400px;
       height:420px;
       background-repeat: no-repeat;
