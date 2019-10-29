@@ -48,7 +48,7 @@ background-color: #A5E8C3;
   float:left;
 }
 .two:hover{
-background-image: url('https://media.giphy.com/media/2w6l5UZIktZagJQ1tc/giphy.gif');
+background-color：#EBAC26;
   width:300px;
   height:250px;
   background-repeat: no-repeat;
@@ -61,7 +61,7 @@ background-image: url('https://media.giphy.com/media/2w6l5UZIktZagJQ1tc/giphy.gi
   float:left;
 }
 .three:hover{
-  background-image: url(/images/15.jpeg);
+  background-color: #FFA1A1;
 
   width:400px;
   height:350px;
@@ -76,7 +76,7 @@ background-image: url('https://media.giphy.com/media/2w6l5UZIktZagJQ1tc/giphy.gi
   float: left;
 }
 .four:hover{
-background-image: url(/images/7.png);
+background-color: #E4BAFF;
   width:250px;
   height:500px;
   background-repeat: no-repeat;
@@ -91,7 +91,7 @@ background-image: url(/images/7.png);
   }
 
 .five:hover{
-  background-image: url(/images/9.png);
+  background-color:#8FDFFF;
     width:330px;
     height:230px;
     background-repeat: no-repeat;
@@ -119,7 +119,7 @@ background-image: url(/images/7.png);
     float: left;
   }
 .seven:hover{
-  background-image: url(/images/2.jpg);
+  background-color:#5CFFFB;
     width:230px;
     height:450px;
     background-repeat: no-repeat;
@@ -134,7 +134,7 @@ background-image: url(/images/7.png);
     }
 
 .eight:hover{
-    background-image: url(/images/11.jpeg);
+    background-color:#FFEE6A;
       width:600px;
       height:250px;
       background-repeat: no-repeat;
@@ -160,7 +160,7 @@ background-image: url(/images/7.png);
       float: left;
     }
 .ten:hover {
-    background-image: url(/images/14.png);
+    background-color:#AAFFB0);
       width:200px;
       height:120px;
       background-repeat: no-repeat;
