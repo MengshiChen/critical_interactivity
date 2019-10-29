@@ -105,7 +105,7 @@ background-color: #E4BAFF;
     float: left;
   }
 .six:hover{
-  background-image: url(/images/candy.png);
+  background-image: url('/images/candy.png');
     width:230px;
     height:350px;
     background-repeat: no-repeat;
