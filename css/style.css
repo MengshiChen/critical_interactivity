@@ -34,7 +34,7 @@ h3 {
   float:left;
 }
 .one:hover{
-background-image: url(..images/14.png);
+background-image: url(/images/14.png);
   width:300px;
   height:300px;
   background-repeat: no-repeat;
@@ -48,7 +48,7 @@ background-image: url(..images/14.png);
   float:left;
 }
 .two:hover{
-background-image: url(..images/13.jpeg);
+background-image: url(/images/13.jpeg);
   width:300px;
   height:250px;
   background-repeat: no-repeat;
@@ -61,7 +61,7 @@ background-image: url(..images/13.jpeg);
   float:left;
 }
 .three:hover{
-  background-image: url(..images/15.jpeg);
+  background-image: url(/images/15.jpeg);
 
   width:400px;
   height:350px;
@@ -76,7 +76,7 @@ background-image: url(..images/13.jpeg);
   float: left;
 }
 .four:hover{
-background-image: url(..images/7.png);
+background-image: url(/images/7.png);
   width:250px;
   height:500px;
   background-repeat: no-repeat;
@@ -91,7 +91,7 @@ background-image: url(..images/7.png);
   }
 
 .five:hover{
-  background-image: url(..images/9.png);
+  background-image: url(/images/9.png);
     width:330px;
     height:230px;
     background-repeat: no-repeat;
@@ -105,7 +105,7 @@ background-image: url(..images/7.png);
     float: left;
   }
 .six:hover{
-  background-image: url(..images/candy.png);
+  background-image: url(/images/candy.png);
     width:230px;
     height:350px;
     background-repeat: no-repeat;
@@ -119,7 +119,7 @@ background-image: url(..images/7.png);
     float: left;
   }
 .seven:hover{
-  background-image: url(..images/2.jpg);
+  background-image: url(/images/2.jpg);
     width:230px;
     height:450px;
     background-repeat: no-repeat;
@@ -134,7 +134,7 @@ background-image: url(..images/7.png);
     }
 
 .eight:hover{
-    background-image: url(..images/11.jpeg);
+    background-image: url(/images/11.jpeg);
       width:600px;
       height:250px;
       background-repeat: no-repeat;
@@ -147,7 +147,7 @@ background-image: url(..images/7.png);
       float: left;
     }
 .nine:hover{
-    background-image: url(..images/yellow.png);
+    background-image: url(/images/yellow.png);
       width:400px;
       height:420px;
       background-repeat: no-repeat;
@@ -160,7 +160,7 @@ background-image: url(..images/7.png);
       float: left;
     }
 .ten:hover {
-    background-image: url(..images/14.png);
+    background-image: url(/images/14.png);
       width:200px;
       height:120px;
       background-repeat: no-repeat;
