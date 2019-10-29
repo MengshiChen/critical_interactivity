@@ -105,7 +105,7 @@ background-color: #E4BAFF;
     float: left;
   }
 .six:hover{
-  background-image: url('images/candy.png');
+  background-image: url('https://media.giphy.com/media/Qsy9ZmvRs5NRJZ0gSq/giphy.gif');
     width:230px;
     height:350px;
     background-repeat: no-repeat;
@@ -147,7 +147,7 @@ background-color: #E4BAFF;
       float: left;
     }
 .nine:hover{
-    background-image: url('images/yellow.png');
+    background-image: url('https://media.giphy.com/media/THItzBEWstxCtXAw8A/giphy.gif');
       width:400px;
       height:420px;
       background-repeat: no-repeat;
